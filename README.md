@@ -1,6 +1,6 @@
 **Miguel Chagas Maciel**
 ==========================
-*Studying ***software engineering*** since January 2025* 💡<br><br>
+*Studying ***software engineering*** since February 2025* 💡<br><br>
 **IDP** - *Instituto Brasileiro de Desenvolvimento e Pesquisa* 
 
 A little about me:
