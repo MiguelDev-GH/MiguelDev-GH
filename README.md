@@ -21,6 +21,6 @@ Studies and Experiences
 
 - ***KreatorJS*** (In development)
 
-<img src='https://github.com/MiguelDev-GH/KreatorJS/blob/main/assets/icon.png' width='250'>
+<img src='https://github.com/MiguelDev-GH/KreatorJS/blob/main/assets/icon.png' width='150'>
 
 > <a href='https://github.com/MiguelDev-GH/KreatorJS'>📌 Repository Here</a>
