@@ -9,7 +9,7 @@ A little about me:
 
 `I just like programming, even tough not knowing much...`
 
-Studys and Experiences
+Studies and Experiences
 ==================
 
 🎓 **Highschool** <br>
