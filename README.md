@@ -1,3 +1,7 @@
+<p align='center'>
+  <img src='minhafoto.png' width='300px'>
+</p>
+
 **Miguel Chagas Maciel**
 ==========================
 *Studying ***software engineering*** since February 2025* 💡<br><br>
