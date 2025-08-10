@@ -10,6 +10,8 @@
 A little about me:
 > 📔 <a href="https://migueldev-gh.github.io/Portifolio/">Portifolio - My Website</a>
 
+![MiguelDev GitHub stats](https://github-readme-stats.vercel.app/api?username=migueldev-gh&show_icons=true&theme=transparent)
+
 Studies and Experiences
 ==================
 
