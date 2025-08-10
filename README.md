@@ -29,4 +29,4 @@ Studies and Experiences
 
 <img src='https://github.com/MiguelDev-GH/KreatorJS/blob/main/assets/icon.png' width='150'>
 
-> <a href='https://github.com/MiguelDev-GH/KreatorJS'>📌 Repository Here</a>
+> [![KreatorJS Card](https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=KreatorJS&theme=transparent)](https://github.com/migueldev-gha/KreatorJS)
