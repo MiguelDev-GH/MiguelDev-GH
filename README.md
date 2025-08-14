@@ -37,4 +37,4 @@ Studies and Experiences
 
 <img src='https://github.com/MiguelDev-GH/Light-Coder-in-py/blob/main/icone.ico' width='150'>
 
-> [![KreatorJS Card](https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=Light-Coder-in-py&theme=transparent)](https://github.com/migueldev-gha/Light-Coder-in-py)
+> [![Light-coder-in-py Card](https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=Light-Coder-in-py&theme=transparent)](https://github.com/migueldev-gh/Light-Coder-in-py)
