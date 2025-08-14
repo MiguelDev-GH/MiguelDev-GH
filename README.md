@@ -26,7 +26,15 @@ Studies and Experiences
 
 
 - ***KreatorJS*** (In development)
-
+  
 <img src='https://github.com/MiguelDev-GH/KreatorJS/blob/main/assets/icon.png' width='150'>
 
 > [![KreatorJS Card](https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=KreatorJS&theme=transparent)](https://github.com/migueldev-gha/KreatorJS)
+
+<br>
+
+- ***Light Coder*** (In development)
+
+<img src='https://github.com/MiguelDev-GH/Light-Coder-in-py/blob/main/icone.ico' width='150'>
+
+> [![KreatorJS Card](https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=Light-Coder-in-py&theme=transparent)](https://github.com/migueldev-gha/Light-Coder-in-py)
