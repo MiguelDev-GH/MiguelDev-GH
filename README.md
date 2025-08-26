@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='minhafoto.png' width='300px'>
+  <img src='meum.png' width='300px'>
 </p>
 
 **Miguel Chagas Maciel**
@@ -67,7 +67,7 @@ Studies and Experiences
 
 <br>
 
-- ***Light Coder*** (In development)
+- ***Light Coder*** (Test Software)
 
 <img src='https://github.com/MiguelDev-GH/Light-Coder-in-py/blob/main/icone.ico' width='150'>
 
