@@ -62,20 +62,35 @@ Studies and Experiences
 </div>
 
 ###
-
 # My projects
 
-
-- ***KreatorJS*** (In development)
-  
-<img src='https://github.com/MiguelDev-GH/KreatorJS/blob/main/assets/icon.png' width='150'>
-
-> [![KreatorJS Card](https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=KreatorJS&theme=transparent)](https://github.com/migueldev-gh/KreatorJS)
+- **KreatorJS** (In development)
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img src='https://github.com/MiguelDev-GH/KreatorJS/blob/main/assets/icon.png' width='150'>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/migueldev-gh/KreatorJS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=KreatorJS&theme=transparent" alt="KreatorJS Card">
+        </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-- ***Light Coder*** (Test Software)
-
-<img src='https://github.com/MiguelDev-GH/Light-Coder-in-py/blob/main/icone.ico' width='150'>
-
-> [![Light-coder-in-py Card](https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=Light-Coder-in-py&theme=transparent)](https://github.com/migueldev-gh/Light-Coder-in-py)
+- **Light Coder** (Test Software)
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img src='https://github.com/MiguelDev-GH/Light-Coder-in-py/blob/main/icone.ico' width='150'>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/migueldev-gh/Light-Coder-in-py">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=Light-Coder-in-py&theme=transparent" alt="Light-coder-in-py Card">
+        </a>
+    </td>
+  </tr>
+</table>
+</div>
