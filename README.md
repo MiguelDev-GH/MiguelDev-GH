@@ -68,7 +68,7 @@ Studies and Experiences
 <table border="0">
   <tr>
     <td valign="top">
-      <img src='https://github.com/MiguelDev-GH/KreatorJS/blob/main/assets/icon.png' width='150'>
+      <img src='https://raw.githubusercontent.com/MiguelDev-GH/KreatorJS/main/assets/icon.png' width='150'>
     </td>
     <td valign="top">
       <a href="https://github.com/migueldev-gh/KreatorJS">
@@ -84,7 +84,7 @@ Studies and Experiences
 <table border="0">
   <tr>
     <td valign="top">
-      <img src='https://github.com/MiguelDev-GH/Light-Coder-in-py/blob/main/icone.ico' width='150'>
+      <img src='https://raw.githubusercontent.com/MiguelDev-GH/Light-Coder-in-py/main/icone.ico' width='150'>
     </td>
     <td valign="top">
       <a href="https://github.com/migueldev-gh/Light-Coder-in-py">
