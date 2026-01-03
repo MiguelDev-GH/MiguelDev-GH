@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='meum.png' width='300px'>
+  <img src='https://raw.githubusercontent.com/MiguelDev-GH/MiguelDev-GH/main/meum.png' width='300px'>
 </p>
 
 **Miguel Chagas Maciel**
@@ -74,7 +74,7 @@ Studies and Experiences
     </td>
     <td valign="top">
       <a href="https://github.com/migueldev-gh/KreatorJS">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=KreatorJS&theme=transparent" alt="KreatorJS Card">
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=migueldev-gh&repo=KreatorJS&theme=transparent" alt="KreatorJS Card">
         </a>
     </td>
   </tr>
@@ -90,7 +90,7 @@ Studies and Experiences
     </td>
     <td valign="top">
       <a href="https://github.com/migueldev-gh/Light-Coder-in-py">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=Light-Coder-in-py&theme=transparent" alt="Light-coder-in-py Card">
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=migueldev-gh&repo=Light-Coder-in-py&theme=transparent" alt="Light-coder-in-py Card">
         </a>
     </td>
   </tr>
@@ -98,5 +98,5 @@ Studies and Experiences
 
 - **React Project Generator** (AI Aplication)
 <a href="https://github.com/migueldev-gh/React-Project-Generator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueldev-gh&repo=React-Project-Generator&theme=transparent" alt="React-Project-Generator Card">
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=migueldev-gh&repo=React-Project-Generator&theme=transparent" alt="React-Project-Generator Card">
 </a>
