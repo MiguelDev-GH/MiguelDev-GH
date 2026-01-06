@@ -97,6 +97,15 @@ Studies and Experiences
 </table>
 
 - **React Project Generator** (AI Aplication)
-<a href="https://github.com/migueldev-gh/React-Project-Generator">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=migueldev-gh&repo=React-Project-Generator&theme=transparent" alt="React-Project-Generator Card">
-</a>
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img width="150" alt="React Project Generator" src="https://github.com/user-attachments/assets/b916f405-d59d-4321-81b8-18350aceff62" />
+    </td>
+    <td valign="top">
+      <a href="https://github.com/migueldev-gh/React-Project-Generator">
+            <img src="https://github-readme-stats.vercel.app/api/pin?username=migueldev-gh&repo=React-Project-Generator&theme=transparent" alt="React-Project-Generator Card">
+      </a>
+    </td>
+  </tr>
+</table>
