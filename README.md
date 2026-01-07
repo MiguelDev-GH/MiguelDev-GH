@@ -96,7 +96,7 @@ Studies and Experiences
   </tr>
 </table>
 
-- **React Project Generator** (AI Aplication)
+- **React Project Generator** (AI Aplication in development)
 <table border="0">
   <tr>
     <td valign="top">
