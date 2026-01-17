@@ -25,7 +25,7 @@ Studies and Experiences
 - Most of what I know today, its because of that time. It's not just about what I learned in school, but also what I was doing outside it.
 
 ------
-<h3 align="center">Programming languages:</h3>
+<h3 align="center">Things i have worked on:</h3>
 
 ###
 
@@ -37,6 +37,8 @@ Studies and Experiences
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
