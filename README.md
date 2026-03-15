@@ -61,8 +61,26 @@ Studies and Experiences
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+
+
 ###
 # My projects
+
+- **KreatorJS** (In development)
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img src='https://raw.githubusercontent.com/MiguelDev-GH/My-PC-Overview/main/website/public/titleIcon.png' width='150'>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/MiguelDev-GH/My-PC-Overview">
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=migueldev-gh&repo=My-PC-Overview&theme=transparent" alt="PC-Overview Card">
+        </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 - **KreatorJS** (In development)
 <table border="0">
