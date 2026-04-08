@@ -66,7 +66,7 @@ Studies and Experiences
 ###
 # My projects
 
-- **KreatorJS** (In development)
+- **PC Overview**
 <table border="0">
   <tr>
     <td valign="top">
@@ -82,7 +82,7 @@ Studies and Experiences
 
 <br>
 
-- **KreatorJS** (In development)
+- **KreatorJS**
 <table border="0">
   <tr>
     <td valign="top">
@@ -98,7 +98,7 @@ Studies and Experiences
 
 <br>
 
-- **Light Coder** (Test Software)
+- **Light Coder**
 <table border="0">
   <tr>
     <td valign="top">
@@ -112,7 +112,7 @@ Studies and Experiences
   </tr>
 </table>
 
-- **React Project Generator** (AI Application in development)
+- **React Project Generator**
 <table border="0">
   <tr>
     <td valign="top">
