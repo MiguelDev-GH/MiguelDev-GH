@@ -2,12 +2,13 @@
   <img src='https://raw.githubusercontent.com/MiguelDev-GH/MiguelDev-GH/main/meum.png' width='300px'>
 </p>
 
-**Miguel Chagas Maciel**
-==========================
+
+-------
+
 *Studying ***software engineering*** since February 2025 (4º period)* 💡<br>
 **IDP** - *Instituto Brasileiro de Desenvolvimento e Pesquisa* 
 
-A little about me:
+A little more about me:
 > 📔 <a href="https://migueldev-gh.github.io/MeuPortifolio/"><b>Portifolio - My Website</b></a>
 
 <!--
