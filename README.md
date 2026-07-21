@@ -18,12 +18,10 @@ A little about me:
 
 <div align="center">
   <br><br>
+  <img src="https://raw.githubusercontent.com/MiguelDev-GH/MiguelDev-GH/main/github-metrics.svg" alt="GitHub Metrics">
+  <br><br>
   
   ![Miguel's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelDev-GH&theme=github_dark)
-  <br><br>
-  ![Miguel's Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiguelDev-GH&theme=github_dark)
-  <br><br>
-  <img src="https://raw.githubusercontent.com/MiguelDev-GH/MiguelDev-GH/main/github-metrics.svg" alt="GitHub Metrics">
   <br><br>
 </div>
 
