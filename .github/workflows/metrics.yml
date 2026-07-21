@@ -1,0 +1,44 @@
+name: GitHub Metrics
+on:
+  # Roda todos os dias à meia-noite
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite que você rode manualmente na aba Actions
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Usa o secret que você criou no Passo 1
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Nome do arquivo da imagem que será gerada
+          filename: github-metrics.svg
+          
+          # Define o template classic
+          template: classic
+          
+          # Configurações base
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          
+          # 1. Linguagens mais usadas
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          
+          # 2. Hábitos de código
+          plugin_habits: yes
+          plugin_habits_from: 200 # Últimos X commits
+          plugin_habits_days: 25 
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          # 4. Linhas de código escritas
+          plugin_lines: yes
