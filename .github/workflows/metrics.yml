@@ -36,7 +36,7 @@ jobs:
           # 2. Hábitos de código
           plugin_habits: yes
           plugin_habits_from: 200 # Últimos X commits
-          plugin_habits_days: 25 
+          plugin_habits_days: 60
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           
