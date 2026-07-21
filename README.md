@@ -4,14 +4,28 @@
 
 **Miguel Chagas Maciel**
 ==========================
-*Studying ***software engineering*** since February 2025 (3º period)* 💡<br><br>
+*Studying ***software engineering*** since February 2025 (4º period)* 💡<br>
 **IDP** - *Instituto Brasileiro de Desenvolvimento e Pesquisa* 
 
 A little about me:
-> 📔 <a href="https://migueldev-gh.github.io/MeuPortifolio/">Portifolio - My Website</a>
+> 📔 <a href="https://migueldev-gh.github.io/MeuPortifolio/"><b>Portifolio - My Website</b></a>
 
+<!--
 ![MiguelDev GitHub stats](https://github-readme-stats.vercel.app/api?username=migueldev-gh&show_icons=true&theme=transparent) <div> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueldev-gh&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) </div>
 
+[![Miguel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelDev-GH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+-->
+
+<div align="center">
+  <br><br>
+  
+  ![Miguel's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelDev-GH&theme=github_dark)
+  <br><br>
+  ![Miguel's Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiguelDev-GH&theme=github_dark)
+  <br><br>
+</div>
+
+<!--
 
 <h3 align="center">Things i have worked on:</h3>
 
@@ -101,6 +115,9 @@ height="40">
 </div>
 
 ###
+
+-->
+
 # My projects
 
 - **PC Overview**
