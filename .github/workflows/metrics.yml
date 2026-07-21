@@ -1,9 +1,7 @@
 name: GitHub Metrics
 on:
-  # Roda todos os dias à meia-noite
   schedule:
     - cron: "0 0 * * *"
-  # Permite que você rode manualmente na aba Actions
   workflow_dispatch:
 
 jobs:
@@ -15,16 +13,12 @@ jobs:
       - name: Gerar Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Usa o secret que você criou no Passo 1
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Nome do arquivo da imagem que será gerada
           filename: github-metrics.svg
           
-          # Define o template classic
           template: classic
           
-          # Configurações base
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           
